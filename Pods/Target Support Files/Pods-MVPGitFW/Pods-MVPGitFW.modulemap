@@ -1,0 +1,6 @@
+framework module Pods_MVPGitFW {
+  umbrella header "Pods-MVPGitFW-umbrella.h"
+
+  export *
+  module * { export * }
+}
